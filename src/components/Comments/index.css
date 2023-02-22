@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.text-area {
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 18px;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.btn-text {
+  margin-top: 10px;
+  background-color: lightblue;
+  border-color: lightblue;
+}
+.comment-container {
+  margin-left: 0px;
+}
+.cd-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.image-line {
+  height: 350px;
+  width: 350px;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+.line {
+  border: solid 2px #475569;
+  margin-top: 50px;
+  width: 90%;
+}
